@@ -1,8 +1,11 @@
 ---
 title: "Prediction Assignment Writeup"
 author: "Sunil Babu Shrestha"
-date: "July 11, 2016"
-output: html_document
+date: "May 11, 2016"
+output:
+  html_document:
+    keep_md: yes
+  pdf_document: default
 ---
 
 The goal of this project is to predict the manner in which people did the exercise.
